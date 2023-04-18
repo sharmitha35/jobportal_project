@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/sharmitha35/jobportal_project.git/static/css/main.201acdc2.css",
+    "main.js": "/sharmitha35/jobportal_project.git/static/js/main.cda50f57.js",
+    "static/media/fontawesome-webfont.svg?v=4.7.0": "/sharmitha35/jobportal_project.git/static/media/fontawesome-webfont.6878d55e3615ccf40c38.svg",
+    "static/media/fontawesome-webfont.eot": "/sharmitha35/jobportal_project.git/static/media/fontawesome-webfont.8b43027f47b20503057d.eot",
+    "static/media/fontawesome-webfont.ttf?v=4.7.0": "/sharmitha35/jobportal_project.git/static/media/fontawesome-webfont.1e59d2330b4c6deb84b3.ttf",
+    "static/media/banner-image-1-1920x700.jpg": "/sharmitha35/jobportal_project.git/static/media/banner-image-1-1920x700.a38de04f8f7d09815816.jpg",
+    "static/media/product-1-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-1-720x480.cd781c537338a7b60e71.jpg",
+    "static/media/product-4-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-4-720x480.cab695fe636bee521860.jpg",
+    "static/media/product-3-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-3-720x480.2d137933cf30b999accf.jpg",
+    "static/media/product-5-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-5-720x480.f2c2fdc6011c0cfa4b32.jpg",
+    "static/media/fontawesome-webfont.woff?v=4.7.0": "/sharmitha35/jobportal_project.git/static/media/fontawesome-webfont.f691f37e57f04c152e23.woff",
+    "static/media/product-6-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-6-720x480.0bbd13df7b6b8ceb4362.jpg",
+    "static/media/product-2-720x480.jpg": "/sharmitha35/jobportal_project.git/static/media/product-2-720x480.0340b2d8e7aa947f028c.jpg",
+    "static/media/fontawesome-webfont.woff2?v=4.7.0": "/sharmitha35/jobportal_project.git/static/media/fontawesome-webfont.20fd1704ea223900efa9.woff2",
+    "index.html": "/sharmitha35/jobportal_project.git/index.html",
+    "main.201acdc2.css.map": "/sharmitha35/jobportal_project.git/static/css/main.201acdc2.css.map",
+    "main.cda50f57.js.map": "/sharmitha35/jobportal_project.git/static/js/main.cda50f57.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.201acdc2.css",
+    "static/js/main.cda50f57.js"
+  ]
+}
